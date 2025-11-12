@@ -1,0 +1,32 @@
+[2025-11-12T17:51:54.791] [INFO] default - [viewController] query: {}
+[2025-11-12T17:51:54.792] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:51:54.828] [INFO] default - [viewController] query: {}
+[2025-11-12T17:51:54.829] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:51:54.954] [INFO] default - [viewController] query: {}
+[2025-11-12T17:51:54.954] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:51:59.178] [INFO] default - [viewController] query: {}
+[2025-11-12T17:51:59.179] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:02.977] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:02.978] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:02.997] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:02.997] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:03.055] [INFO] default - [GET /api/project/model_list] signature: fab3fe0829f7e358d2d03e790ba906aa
+[2025-11-12T17:52:03.055] [INFO] default - GET /api/project/model_list body:{}
+[2025-11-12T17:52:03.056] [INFO] default - GET /api/project/model_list query:{}
+[2025-11-12T17:52:03.056] [INFO] default - GET /api/project/model_list params:undefined
+[2025-11-12T17:52:03.057] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fab3fe0829f7e358d2d03e790ba906aa","s_t":"1762941123036","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-12T17:52:03.069] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:03.070] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:05.716] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:05.716] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:09.236] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:09.236] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:09.257] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:09.258] [INFO] default - [viewController] params: undefined
+[2025-11-12T17:52:09.418] [INFO] default - [GET /api/project/model_list] signature: fb99011a4785bebfe3a6c62f3822712c
+[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list body:{}
+[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list query:{}
+[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list params:undefined
+[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fb99011a4785bebfe3a6c62f3822712c","s_t":"1762941129406","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-12T17:52:09.455] [INFO] default - [viewController] query: {}
+[2025-11-12T17:52:09.455] [INFO] default - [viewController] params: undefined
