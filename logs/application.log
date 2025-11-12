@@ -30,3 +30,40 @@
 [2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fb99011a4785bebfe3a6c62f3822712c","s_t":"1762941129406","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
 [2025-11-12T17:52:09.455] [INFO] default - [viewController] query: {}
 [2025-11-12T17:52:09.455] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:19:27.898] [INFO] default - [viewController] query: {}
+[2025-11-12T18:19:27.898] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:19:27.924] [INFO] default - [viewController] query: {}
+[2025-11-12T18:19:27.925] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:19:28.180] [INFO] default - [GET /api/project/model_list] signature: 21e01d4d960784e0422dd17cfa79820f
+[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list body:{}
+[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list query:{}
+[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list params:undefined
+[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"21e01d4d960784e0422dd17cfa79820f","s_t":"1762942768171","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-12T18:19:28.237] [INFO] default - [viewController] query: {}
+[2025-11-12T18:19:28.237] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:20:24.579] [INFO] default - [viewController] query: {"proj_key":"jd","key":"product"}
+[2025-11-12T18:20:24.580] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:20:24.594] [INFO] default - [viewController] query: {}
+[2025-11-12T18:20:24.594] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:20:24.816] [INFO] default - [GET /api/project/list] signature: 3f339fd91e577473caa013f5ccb2fd8c
+[2025-11-12T18:20:24.817] [INFO] default - GET /api/project/list body:{}
+[2025-11-12T18:20:24.817] [INFO] default - GET /api/project/list query:{"proj_key":"jd"}
+[2025-11-12T18:20:24.817] [INFO] default - GET /api/project/list params:undefined
+[2025-11-12T18:20:24.818] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"3f339fd91e577473caa013f5ccb2fd8c","s_t":"1762942824812","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-12T18:20:24.833] [INFO] default - [GET /api/project] signature: 435b1cd23e01c0cc52db43cd9cd0c75f
+[2025-11-12T18:20:24.834] [INFO] default - GET /api/project body:{}
+[2025-11-12T18:20:24.834] [INFO] default - GET /api/project query:{"proj_key":"jd"}
+[2025-11-12T18:20:24.834] [INFO] default - GET /api/project params:undefined
+[2025-11-12T18:20:24.835] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"435b1cd23e01c0cc52db43cd9cd0c75f","s_t":"1762942824813","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-12T18:20:24.928] [INFO] default - [GET /api/proj/product_enum/list] signature: 04a5aa39046fb94dcf424234ec3c1c42
+[2025-11-12T18:20:24.929] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-12T18:20:24.929] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-12T18:20:24.929] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-12T18:20:24.930] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"jd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"04a5aa39046fb94dcf424234ec3c1c42","s_t":"1762942824926","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-12T18:20:24.971] [INFO] default - [viewController] query: {}
+[2025-11-12T18:20:24.972] [INFO] default - [viewController] params: undefined
+[2025-11-12T18:20:25.963] [INFO] default - [GET /api/proj/product/list] signature: 07abfffac3d818562b4dd0da340d1b31
+[2025-11-12T18:20:25.963] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-12T18:20:25.964] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-12T18:20:25.964] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-12T18:20:25.964] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"jd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"07abfffac3d818562b4dd0da340d1b31","s_t":"1762942825960","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
