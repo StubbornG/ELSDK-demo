@@ -133,6 +133,15 @@ module.exports = {
                     },
                     tableConfig: {
                         headerButtons: [
+                            // {
+                            //     label: '展示demo',
+                            //     eventKey: 'showComponent',
+                            //     eventOption: {
+                            //         comName: 'demoComponent'
+                            //     },
+                            //     type: 'primary',
+                            //     plain: true
+                            // },
                             {
                                 label: '新增商品',
                                 eventKey: 'showComponent',
@@ -173,7 +182,8 @@ module.exports = {
                         mainKey: 'product_id',
                         title: '修改商品',
                         saveBtnText: '修改商品'
-                    }
+                    },
+                    // demoComponent: {}
                 }
             }
         },

@@ -1,69 +1,585 @@
-[2025-11-12T17:51:54.791] [INFO] default - [viewController] query: {}
-[2025-11-12T17:51:54.792] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:51:54.828] [INFO] default - [viewController] query: {}
-[2025-11-12T17:51:54.829] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:51:54.954] [INFO] default - [viewController] query: {}
-[2025-11-12T17:51:54.954] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:51:59.178] [INFO] default - [viewController] query: {}
-[2025-11-12T17:51:59.179] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:02.977] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:02.978] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:02.997] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:02.997] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:03.055] [INFO] default - [GET /api/project/model_list] signature: fab3fe0829f7e358d2d03e790ba906aa
-[2025-11-12T17:52:03.055] [INFO] default - GET /api/project/model_list body:{}
-[2025-11-12T17:52:03.056] [INFO] default - GET /api/project/model_list query:{}
-[2025-11-12T17:52:03.056] [INFO] default - GET /api/project/model_list params:undefined
-[2025-11-12T17:52:03.057] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fab3fe0829f7e358d2d03e790ba906aa","s_t":"1762941123036","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
-[2025-11-12T17:52:03.069] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:03.070] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:05.716] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:05.716] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:09.236] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:09.236] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:09.257] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:09.258] [INFO] default - [viewController] params: undefined
-[2025-11-12T17:52:09.418] [INFO] default - [GET /api/project/model_list] signature: fb99011a4785bebfe3a6c62f3822712c
-[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list body:{}
-[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list query:{}
-[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list params:undefined
-[2025-11-12T17:52:09.419] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fb99011a4785bebfe3a6c62f3822712c","s_t":"1762941129406","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
-[2025-11-12T17:52:09.455] [INFO] default - [viewController] query: {}
-[2025-11-12T17:52:09.455] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:19:27.898] [INFO] default - [viewController] query: {}
-[2025-11-12T18:19:27.898] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:19:27.924] [INFO] default - [viewController] query: {}
-[2025-11-12T18:19:27.925] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:19:28.180] [INFO] default - [GET /api/project/model_list] signature: 21e01d4d960784e0422dd17cfa79820f
-[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list body:{}
-[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list query:{}
-[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list params:undefined
-[2025-11-12T18:19:28.181] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"21e01d4d960784e0422dd17cfa79820f","s_t":"1762942768171","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
-[2025-11-12T18:19:28.237] [INFO] default - [viewController] query: {}
-[2025-11-12T18:19:28.237] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:20:24.579] [INFO] default - [viewController] query: {"proj_key":"jd","key":"product"}
-[2025-11-12T18:20:24.580] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:20:24.594] [INFO] default - [viewController] query: {}
-[2025-11-12T18:20:24.594] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:20:24.816] [INFO] default - [GET /api/project/list] signature: 3f339fd91e577473caa013f5ccb2fd8c
-[2025-11-12T18:20:24.817] [INFO] default - GET /api/project/list body:{}
-[2025-11-12T18:20:24.817] [INFO] default - GET /api/project/list query:{"proj_key":"jd"}
-[2025-11-12T18:20:24.817] [INFO] default - GET /api/project/list params:undefined
-[2025-11-12T18:20:24.818] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"3f339fd91e577473caa013f5ccb2fd8c","s_t":"1762942824812","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
-[2025-11-12T18:20:24.833] [INFO] default - [GET /api/project] signature: 435b1cd23e01c0cc52db43cd9cd0c75f
-[2025-11-12T18:20:24.834] [INFO] default - GET /api/project body:{}
-[2025-11-12T18:20:24.834] [INFO] default - GET /api/project query:{"proj_key":"jd"}
-[2025-11-12T18:20:24.834] [INFO] default - GET /api/project params:undefined
-[2025-11-12T18:20:24.835] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"435b1cd23e01c0cc52db43cd9cd0c75f","s_t":"1762942824813","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
-[2025-11-12T18:20:24.928] [INFO] default - [GET /api/proj/product_enum/list] signature: 04a5aa39046fb94dcf424234ec3c1c42
-[2025-11-12T18:20:24.929] [INFO] default - GET /api/proj/product_enum/list body:{}
-[2025-11-12T18:20:24.929] [INFO] default - GET /api/proj/product_enum/list query:{}
-[2025-11-12T18:20:24.929] [INFO] default - GET /api/proj/product_enum/list params:undefined
-[2025-11-12T18:20:24.930] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"jd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"04a5aa39046fb94dcf424234ec3c1c42","s_t":"1762942824926","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
-[2025-11-12T18:20:24.971] [INFO] default - [viewController] query: {}
-[2025-11-12T18:20:24.972] [INFO] default - [viewController] params: undefined
-[2025-11-12T18:20:25.963] [INFO] default - [GET /api/proj/product/list] signature: 07abfffac3d818562b4dd0da340d1b31
-[2025-11-12T18:20:25.963] [INFO] default - GET /api/proj/product/list body:{}
-[2025-11-12T18:20:25.964] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
-[2025-11-12T18:20:25.964] [INFO] default - GET /api/proj/product/list params:undefined
-[2025-11-12T18:20:25.964] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"jd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"07abfffac3d818562b4dd0da340d1b31","s_t":"1762942825960","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=jd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:41:05.719] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:05.720] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:05.751] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:05.752] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:05.985] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:05.986] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:09.446] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:09.446] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:09.463] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:09.463] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:09.567] [INFO] default - [GET /api/project/model_list] signature: d538650d58eeb095ea718d47ee68f6d9
+[2025-11-17T20:41:09.568] [INFO] default - GET /api/project/model_list body:{}
+[2025-11-17T20:41:09.568] [INFO] default - GET /api/project/model_list query:{}
+[2025-11-17T20:41:09.568] [INFO] default - GET /api/project/model_list params:undefined
+[2025-11-17T20:41:09.569] [INFO] default - GET /api/project/model_list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"d538650d58eeb095ea718d47ee68f6d9","s_t":"1763383269550","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/project-list","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:41:09.600] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:09.601] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:12.576] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:12.577] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:23.057] [INFO] default - [viewController] query: {"proj_key":"taobao","key":"product"}
+[2025-11-17T20:41:23.057] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:23.069] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:23.069] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:23.303] [INFO] default - [GET /api/project/list] signature: 2ab32b36e4b51dbbf176cab9d63fd982
+[2025-11-17T20:41:23.303] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:41:23.303] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:41:23.304] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:41:23.304] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"2ab32b36e4b51dbbf176cab9d63fd982","s_t":"1763383283296","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=taobao&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:41:23.316] [INFO] default - [GET /api/project] signature: 239e1e7f15df2d07acb6b2fb9b5eec0a
+[2025-11-17T20:41:23.317] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:41:23.317] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:41:23.317] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:41:23.318] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"239e1e7f15df2d07acb6b2fb9b5eec0a","s_t":"1763383283299","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=taobao&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:41:23.410] [INFO] default - [GET /api/proj/product_enum/list] signature: 04826ba677bb131b693b2178e36690f5
+[2025-11-17T20:41:23.410] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:41:23.411] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:41:23.412] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:41:23.412] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"04826ba677bb131b693b2178e36690f5","s_t":"1763383283406","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=taobao&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:41:23.457] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:23.458] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:41:24.448] [INFO] default - [GET /api/proj/product/list] signature: 6ad0d5ff8f5aff70f2401bddc80e065f
+[2025-11-17T20:41:24.449] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:41:24.449] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:41:24.449] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:41:24.450] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"6ad0d5ff8f5aff70f2401bddc80e065f","s_t":"1763383284445","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=taobao&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:41:25.547] [INFO] default - [viewController] query: {}
+[2025-11-17T20:41:25.547] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:18.650] [INFO] default - [GET /api/project/list] signature: bfcdf42cdbfbdf9f778b24c95dd0e445
+[2025-11-17T20:45:18.650] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:45:18.651] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:45:18.651] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:45:18.651] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"bfcdf42cdbfbdf9f778b24c95dd0e445","s_t":"1763383518336","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/iframe?key=order&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:18.653] [INFO] default - [GET /api/project] signature: 1448aad795e7cabeb38a34c197d31f8b
+[2025-11-17T20:45:18.653] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:45:18.653] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:45:18.653] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:45:18.654] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"1448aad795e7cabeb38a34c197d31f8b","s_t":"1763383518339","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/iframe?key=order&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:18.665] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:18.666] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:19.957] [INFO] default - [GET /api/project/list] signature: cd521e3fe2a7d7de61def0c1ed883148
+[2025-11-17T20:45:19.957] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:45:19.957] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:45:19.958] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:45:19.958] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"cd521e3fe2a7d7de61def0c1ed883148","s_t":"1763383519950","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/todo?key=client&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:19.961] [INFO] default - [GET /api/project] signature: 7c2e5f397bb8c4ea38b59cb871eefdae
+[2025-11-17T20:45:19.961] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:45:19.962] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:45:19.962] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:45:19.962] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"7c2e5f397bb8c4ea38b59cb871eefdae","s_t":"1763383519951","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/todo?key=client&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:19.968] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:19.969] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:20.631] [INFO] default - [GET /api/project/list] signature: 7aed2e3a59cc2ca90d0a2d284693f06c
+[2025-11-17T20:45:20.632] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:45:20.632] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:45:20.632] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:45:20.633] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"7aed2e3a59cc2ca90d0a2d284693f06c","s_t":"1763383520625","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:20.634] [INFO] default - [GET /api/project] signature: 7aed2e3a59cc2ca90d0a2d284693f06c
+[2025-11-17T20:45:20.635] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:45:20.635] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:45:20.635] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:45:20.635] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"7aed2e3a59cc2ca90d0a2d284693f06c","s_t":"1763383520625","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:20.723] [INFO] default - [GET /api/proj/product_enum/list] signature: 1cdda8d10b9b179b6e23475995daec96
+[2025-11-17T20:45:20.723] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:45:20.723] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:45:20.723] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:45:20.724] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"1cdda8d10b9b179b6e23475995daec96","s_t":"1763383520720","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:20.807] [INFO] default - [GET /api/proj/product_enum/list] signature: c888937f670386adea8cb9f16022794d
+[2025-11-17T20:45:20.807] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:45:20.808] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:45:20.808] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:45:20.808] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"c888937f670386adea8cb9f16022794d","s_t":"1763383520803","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:20.836] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:20.837] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:22.152] [INFO] default - [viewController] query: {"proj_key":"pdd","key":"product"}
+[2025-11-17T20:45:22.153] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:22.162] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:22.163] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:22.373] [INFO] default - [GET /api/proj/product/list] signature: 742d59c07f23db1e73af8ef15cb2948e
+[2025-11-17T20:45:22.373] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:45:22.374] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:45:22.374] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:45:22.374] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"742d59c07f23db1e73af8ef15cb2948e","s_t":"1763383522370","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:22.400] [INFO] default - [GET /api/project/list] signature: 6384677729ae38c57531efbee6f9a040
+[2025-11-17T20:45:22.401] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:45:22.401] [INFO] default - GET /api/project/list query:{"proj_key":"pdd"}
+[2025-11-17T20:45:22.401] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:45:22.401] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"6384677729ae38c57531efbee6f9a040","s_t":"1763383522393","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:22.403] [INFO] default - [GET /api/project] signature: 17eba55cdc70902d053fdb7232f9b66a
+[2025-11-17T20:45:22.404] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:45:22.404] [INFO] default - GET /api/project query:{"proj_key":"pdd"}
+[2025-11-17T20:45:22.404] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:45:22.404] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"17eba55cdc70902d053fdb7232f9b66a","s_t":"1763383522396","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:22.497] [INFO] default - [GET /api/proj/product_enum/list] signature: cd8b9734a79ac6ccef44f8cde74ed93a
+[2025-11-17T20:45:22.497] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:45:22.497] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:45:22.498] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:45:22.498] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"pdd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"cd8b9734a79ac6ccef44f8cde74ed93a","s_t":"1763383522493","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:22.541] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:22.541] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:23.534] [INFO] default - [GET /api/proj/product/list] signature: 9e3ed6d4bbbf965f92dcfd5c9a97311a
+[2025-11-17T20:45:23.535] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:45:23.536] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:45:23.536] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:45:23.536] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"pdd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"9e3ed6d4bbbf965f92dcfd5c9a97311a","s_t":"1763383523527","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:48.968] [INFO] default - [viewController] query: {"proj_key":"pdd","key":"product"}
+[2025-11-17T20:45:48.969] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:49.001] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:49.001] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:49.237] [INFO] default - [GET /api/project/list] signature: 91c9b2361388a902ca3e3432a88d52d8
+[2025-11-17T20:45:49.238] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:45:49.238] [INFO] default - GET /api/project/list query:{"proj_key":"pdd"}
+[2025-11-17T20:45:49.238] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:45:49.239] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"91c9b2361388a902ca3e3432a88d52d8","s_t":"1763383549223","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:49.245] [INFO] default - [GET /api/project] signature: 4a69ae321b10e60cf7cf8c92d26c5d93
+[2025-11-17T20:45:49.245] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:45:49.245] [INFO] default - GET /api/project query:{"proj_key":"pdd"}
+[2025-11-17T20:45:49.246] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:45:49.246] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"4a69ae321b10e60cf7cf8c92d26c5d93","s_t":"1763383549226","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:49.342] [INFO] default - [GET /api/proj/product_enum/list] signature: 9eec19255251ae5d0bc1ff28b1a66977
+[2025-11-17T20:45:49.342] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:45:49.343] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:45:49.343] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:45:49.343] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"pdd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"9eec19255251ae5d0bc1ff28b1a66977","s_t":"1763383549340","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:49.394] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:49.394] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:45:51.030] [INFO] default - [GET /api/proj/product/list] signature: 050a3959afa54e246a4fbcd931870b61
+[2025-11-17T20:45:51.031] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:45:51.031] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:45:51.032] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:45:51.032] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"pdd","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"050a3959afa54e246a4fbcd931870b61","s_t":"1763383551024","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?proj_key=pdd&key=product","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:45:55.447] [INFO] default - [viewController] query: {}
+[2025-11-17T20:45:55.448] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:14.446] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:46:14.446] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:14.465] [INFO] default - [viewController] query: {}
+[2025-11-17T20:46:14.465] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:14.762] [INFO] default - [GET /api/project/list] signature: 462bd6a088b8f1be6812577c2fac648e
+[2025-11-17T20:46:14.763] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:46:14.763] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:46:14.763] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:46:14.764] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"462bd6a088b8f1be6812577c2fac648e","s_t":"1763383574751","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:14.771] [INFO] default - [GET /api/project] signature: 45f696cfc28d9f2e396d450da2ab813a
+[2025-11-17T20:46:14.771] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:46:14.771] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:46:14.772] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:46:14.772] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"45f696cfc28d9f2e396d450da2ab813a","s_t":"1763383574755","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:14.880] [INFO] default - [GET /api/proj/product_enum/list] signature: 085806ba7b084390efe3754f62c5bd04
+[2025-11-17T20:46:14.880] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:46:14.881] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:46:14.881] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:46:14.881] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"085806ba7b084390efe3754f62c5bd04","s_t":"1763383574877","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:14.929] [INFO] default - [viewController] query: {}
+[2025-11-17T20:46:14.930] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:15.941] [INFO] default - [GET /api/proj/product/list] signature: 0c4d8d6810b827699c47648de0b6e719
+[2025-11-17T20:46:15.942] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:46:15.942] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:46:15.942] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:46:15.943] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"0c4d8d6810b827699c47648de0b6e719","s_t":"1763383575938","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:37.973] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:46:37.974] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:38.004] [INFO] default - [viewController] query: {}
+[2025-11-17T20:46:38.005] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:38.324] [INFO] default - [GET /api/project/list] signature: ba3034744d6d36347d21fa764b5aae64
+[2025-11-17T20:46:38.325] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:46:38.325] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:46:38.325] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:46:38.326] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"ba3034744d6d36347d21fa764b5aae64","s_t":"1763383598291","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:38.335] [INFO] default - [GET /api/project] signature: 45a38b5551d28c05390765e8e217992c
+[2025-11-17T20:46:38.336] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:46:38.336] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:46:38.337] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:46:38.337] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"45a38b5551d28c05390765e8e217992c","s_t":"1763383598296","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:38.446] [INFO] default - [GET /api/proj/product_enum/list] signature: 661935a872e6caee6ddcb8ee8e87e7e3
+[2025-11-17T20:46:38.447] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:46:38.447] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:46:38.447] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:46:38.447] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"661935a872e6caee6ddcb8ee8e87e7e3","s_t":"1763383598444","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:46:38.512] [INFO] default - [viewController] query: {}
+[2025-11-17T20:46:38.512] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:46:39.500] [INFO] default - [GET /api/proj/product/list] signature: 59e8fce439939b7c98c167c3a355917e
+[2025-11-17T20:46:39.500] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:46:39.500] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:46:39.501] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:46:39.501] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"59e8fce439939b7c98c167c3a355917e","s_t":"1763383599497","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:49:30.487] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:49:30.488] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:49:30.515] [INFO] default - [viewController] query: {}
+[2025-11-17T20:49:30.516] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:49:30.816] [INFO] default - [GET /api/project/list] signature: b24fe3179fa05924836002801d6a8063
+[2025-11-17T20:49:30.816] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:49:30.817] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:49:30.817] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:49:30.817] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b24fe3179fa05924836002801d6a8063","s_t":"1763383770799","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:49:30.825] [INFO] default - [GET /api/project] signature: 8abae8ce668277404d422a3594760ab1
+[2025-11-17T20:49:30.826] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:49:30.826] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:49:30.826] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:49:30.826] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"8abae8ce668277404d422a3594760ab1","s_t":"1763383770805","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:49:30.925] [INFO] default - [GET /api/proj/product_enum/list] signature: c85041421f9be3682ea874006c20fad5
+[2025-11-17T20:49:30.926] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:49:30.926] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:49:30.926] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:49:30.926] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"c85041421f9be3682ea874006c20fad5","s_t":"1763383770923","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:49:30.979] [INFO] default - [viewController] query: {}
+[2025-11-17T20:49:30.979] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:49:31.992] [INFO] default - [GET /api/proj/product/list] signature: 93911b52c2a44ef5620a858c2bb5f5a7
+[2025-11-17T20:49:31.993] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:49:31.993] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:49:31.993] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:49:31.993] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"93911b52c2a44ef5620a858c2bb5f5a7","s_t":"1763383771974","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:51:10.999] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:51:11.000] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:51:11.032] [INFO] default - [viewController] query: {}
+[2025-11-17T20:51:11.032] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:51:11.328] [INFO] default - [GET /api/project/list] signature: 123969ef8533d2693b7141b051914970
+[2025-11-17T20:51:11.328] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:51:11.329] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:51:11.329] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:51:11.329] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"123969ef8533d2693b7141b051914970","s_t":"1763383871307","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:51:11.338] [INFO] default - [GET /api/project] signature: 4b1ccab3f1d472fb4d1b7060ae86a655
+[2025-11-17T20:51:11.339] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:51:11.339] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:51:11.339] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:51:11.339] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"4b1ccab3f1d472fb4d1b7060ae86a655","s_t":"1763383871310","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:51:11.414] [INFO] default - [GET /api/proj/product_enum/list] signature: ca5627a059117ddd1a0f79e775342a79
+[2025-11-17T20:51:11.414] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:51:11.414] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:51:11.414] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:51:11.414] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"ca5627a059117ddd1a0f79e775342a79","s_t":"1763383871409","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:51:11.452] [INFO] default - [viewController] query: {}
+[2025-11-17T20:51:11.452] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:51:12.467] [INFO] default - [GET /api/proj/product/list] signature: f0c9c7ecccf0591656ac049ca2844109
+[2025-11-17T20:51:12.467] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:51:12.467] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:51:12.467] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:51:12.467] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"f0c9c7ecccf0591656ac049ca2844109","s_t":"1763383872463","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:52:06.296] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:52:06.296] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:52:06.313] [INFO] default - [viewController] query: {}
+[2025-11-17T20:52:06.314] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:52:06.455] [INFO] default - [GET /api/project/list] signature: fb07634f9ee6bcc0c67025eb569244e2
+[2025-11-17T20:52:06.456] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:52:06.456] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:52:06.456] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:52:06.457] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fb07634f9ee6bcc0c67025eb569244e2","s_t":"1763383926449","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:52:06.460] [INFO] default - [GET /api/project] signature: cfdb33db99e0dd4fbfeeb8a737741248
+[2025-11-17T20:52:06.460] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:52:06.460] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:52:06.460] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:52:06.460] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"cfdb33db99e0dd4fbfeeb8a737741248","s_t":"1763383926450","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:52:06.593] [INFO] default - [GET /api/proj/product_enum/list] signature: 6a9db8124edefa908b1fef5c6c62ce76
+[2025-11-17T20:52:06.593] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:52:06.593] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:52:06.594] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:52:06.594] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"6a9db8124edefa908b1fef5c6c62ce76","s_t":"1763383926587","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:52:06.641] [INFO] default - [viewController] query: {}
+[2025-11-17T20:52:06.641] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:52:07.644] [INFO] default - [GET /api/proj/product/list] signature: b848811a6039e710ea0b4eb8cebef936
+[2025-11-17T20:52:07.645] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:52:07.645] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:52:07.645] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:52:07.645] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b848811a6039e710ea0b4eb8cebef936","s_t":"1763383927639","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:54:07.114] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:54:07.115] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:54:07.155] [INFO] default - [viewController] query: {}
+[2025-11-17T20:54:07.156] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:54:07.478] [INFO] default - [GET /api/project/list] signature: fa1852d2ac97309cae59d24261779c93
+[2025-11-17T20:54:07.479] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:54:07.479] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:54:07.480] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:54:07.480] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fa1852d2ac97309cae59d24261779c93","s_t":"1763384047461","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:54:07.490] [INFO] default - [GET /api/project] signature: 39283452285c8c0dd459ca4d7474030d
+[2025-11-17T20:54:07.491] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:54:07.492] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:54:07.492] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:54:07.492] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"39283452285c8c0dd459ca4d7474030d","s_t":"1763384047464","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:54:07.608] [INFO] default - [GET /api/proj/product_enum/list] signature: 92ab527375c9a6b60b008fc8c9dc12c2
+[2025-11-17T20:54:07.608] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:54:07.609] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:54:07.609] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:54:07.609] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"92ab527375c9a6b60b008fc8c9dc12c2","s_t":"1763384047606","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:54:07.656] [INFO] default - [viewController] query: {}
+[2025-11-17T20:54:07.656] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:54:08.657] [INFO] default - [GET /api/proj/product/list] signature: 108bff19f82c112288af1b6384ceac85
+[2025-11-17T20:54:08.657] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:54:08.657] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:54:08.657] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:54:08.658] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"108bff19f82c112288af1b6384ceac85","s_t":"1763384048654","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:55:57.723] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:55:57.723] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:55:57.743] [INFO] default - [viewController] query: {}
+[2025-11-17T20:55:57.743] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:55:57.983] [INFO] default - [GET /api/project/list] signature: 6dfc5b18e60f899babd74a537b10a227
+[2025-11-17T20:55:57.984] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:55:57.984] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:55:57.984] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:55:57.984] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"6dfc5b18e60f899babd74a537b10a227","s_t":"1763384157978","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:55:57.988] [INFO] default - [GET /api/project] signature: 2216f2a1d54523670ae47630f84771f5
+[2025-11-17T20:55:57.989] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:55:57.989] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:55:57.989] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:55:57.989] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"2216f2a1d54523670ae47630f84771f5","s_t":"1763384157980","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:55:58.074] [INFO] default - [GET /api/proj/product_enum/list] signature: 58c37e95ae0c4c55d3b7b39c3ef0224b
+[2025-11-17T20:55:58.075] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:55:58.075] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:55:58.075] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:55:58.075] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"58c37e95ae0c4c55d3b7b39c3ef0224b","s_t":"1763384158071","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:55:58.114] [INFO] default - [viewController] query: {}
+[2025-11-17T20:55:58.115] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:55:59.115] [INFO] default - [GET /api/proj/product/list] signature: e04006992e8fc43e07d4b86b22d33bcf
+[2025-11-17T20:55:59.115] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:55:59.115] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:55:59.115] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:55:59.115] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"e04006992e8fc43e07d4b86b22d33bcf","s_t":"1763384159112","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:56:41.301] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:56:41.301] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:56:41.315] [INFO] default - [viewController] query: {}
+[2025-11-17T20:56:41.315] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:56:41.424] [INFO] default - [GET /api/project/list] signature: 98dce5926e122efdff76affa17dee2d7
+[2025-11-17T20:56:41.425] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:56:41.425] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:56:41.425] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:56:41.425] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"98dce5926e122efdff76affa17dee2d7","s_t":"1763384201421","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:56:41.429] [INFO] default - [GET /api/project] signature: 9ba72fc026250500c7223d6428cc7851
+[2025-11-17T20:56:41.430] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:56:41.430] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:56:41.430] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:56:41.430] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"9ba72fc026250500c7223d6428cc7851","s_t":"1763384201422","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:56:41.507] [INFO] default - [GET /api/proj/product_enum/list] signature: cc5b62515207fc34c963d4cc66a8e9e3
+[2025-11-17T20:56:41.508] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:56:41.508] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:56:41.508] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:56:41.508] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"cc5b62515207fc34c963d4cc66a8e9e3","s_t":"1763384201506","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:56:41.543] [INFO] default - [viewController] query: {}
+[2025-11-17T20:56:41.543] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:56:42.551] [INFO] default - [GET /api/proj/product/list] signature: 40f230a99a8ec595bd6ea843ae2705ed
+[2025-11-17T20:56:42.551] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:56:42.551] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:56:42.552] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:56:42.552] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"40f230a99a8ec595bd6ea843ae2705ed","s_t":"1763384202547","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:57:37.876] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:57:37.877] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:57:37.899] [INFO] default - [viewController] query: {}
+[2025-11-17T20:57:37.899] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:57:38.030] [INFO] default - [GET /api/project/list] signature: f9853f2c4fd9982a000d72b6817d3341
+[2025-11-17T20:57:38.030] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:57:38.031] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:57:38.031] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:57:38.031] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"f9853f2c4fd9982a000d72b6817d3341","s_t":"1763384258018","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:57:38.037] [INFO] default - [GET /api/project] signature: 2117ee3efd39aee4a56a7de92baa81ce
+[2025-11-17T20:57:38.038] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:57:38.038] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:57:38.038] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:57:38.038] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"2117ee3efd39aee4a56a7de92baa81ce","s_t":"1763384258019","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:57:38.102] [INFO] default - [GET /api/proj/product_enum/list] signature: fb15d8959b930ab18ee3f45b226989fa
+[2025-11-17T20:57:38.102] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:57:38.102] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:57:38.102] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:57:38.103] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fb15d8959b930ab18ee3f45b226989fa","s_t":"1763384258100","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:57:38.147] [INFO] default - [viewController] query: {}
+[2025-11-17T20:57:38.147] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:57:39.145] [INFO] default - [GET /api/proj/product/list] signature: c749637be310741b17d5ab41595825de
+[2025-11-17T20:57:39.146] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:57:39.146] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:57:39.146] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:57:39.146] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"c749637be310741b17d5ab41595825de","s_t":"1763384259142","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:57:42.025] [INFO] default - [viewController] query: {}
+[2025-11-17T20:57:42.025] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:58:07.876] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:58:07.876] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:58:07.891] [INFO] default - [viewController] query: {}
+[2025-11-17T20:58:07.892] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:58:08.067] [INFO] default - [GET /api/project/list] signature: b60f07b8fc0a0fbb5875be3e69d099dd
+[2025-11-17T20:58:08.068] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:58:08.068] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:58:08.068] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:58:08.068] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b60f07b8fc0a0fbb5875be3e69d099dd","s_t":"1763384288063","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:58:08.072] [INFO] default - [GET /api/project] signature: 89cf66b2d95127b09b8aaab6c03b5d84
+[2025-11-17T20:58:08.072] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:58:08.073] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:58:08.073] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:58:08.073] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"89cf66b2d95127b09b8aaab6c03b5d84","s_t":"1763384288065","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:58:08.206] [INFO] default - [GET /api/proj/product_enum/list] signature: def0910101e39c385b38ccbc641bd8d5
+[2025-11-17T20:58:08.206] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:58:08.206] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:58:08.206] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:58:08.206] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"def0910101e39c385b38ccbc641bd8d5","s_t":"1763384288203","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:58:08.286] [INFO] default - [viewController] query: {}
+[2025-11-17T20:58:08.286] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:58:09.286] [INFO] default - [GET /api/proj/product/list] signature: b4b3e0e48b8c3813aaaf978ea2208d63
+[2025-11-17T20:58:09.286] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:58:09.286] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:58:09.287] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:58:09.287] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b4b3e0e48b8c3813aaaf978ea2208d63","s_t":"1763384289283","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:59:51.077] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T20:59:51.077] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:59:51.097] [INFO] default - [viewController] query: {}
+[2025-11-17T20:59:51.097] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:59:51.283] [INFO] default - [GET /api/project/list] signature: 0805ce75282352527a363ebccb745303
+[2025-11-17T20:59:51.284] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T20:59:51.284] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T20:59:51.284] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T20:59:51.284] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"0805ce75282352527a363ebccb745303","s_t":"1763384391275","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:59:51.287] [INFO] default - [GET /api/project] signature: 1eb9b012750029fd8246b15e173b5f5b
+[2025-11-17T20:59:51.288] [INFO] default - GET /api/project body:{}
+[2025-11-17T20:59:51.288] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T20:59:51.288] [INFO] default - GET /api/project params:undefined
+[2025-11-17T20:59:51.289] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"1eb9b012750029fd8246b15e173b5f5b","s_t":"1763384391277","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:59:51.407] [INFO] default - [GET /api/proj/product_enum/list] signature: b8ad8a6ecc606632ce9fac16fcbb94cb
+[2025-11-17T20:59:51.407] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T20:59:51.407] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T20:59:51.408] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T20:59:51.408] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b8ad8a6ecc606632ce9fac16fcbb94cb","s_t":"1763384391402","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T20:59:51.467] [INFO] default - [viewController] query: {}
+[2025-11-17T20:59:51.467] [INFO] default - [viewController] params: undefined
+[2025-11-17T20:59:52.459] [INFO] default - [GET /api/proj/product/list] signature: 0220bbf6f031edd132d811ba28df1cd3
+[2025-11-17T20:59:52.460] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T20:59:52.460] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T20:59:52.461] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T20:59:52.461] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"0220bbf6f031edd132d811ba28df1cd3","s_t":"1763384392457","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:01:37.499] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T21:01:37.500] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:01:37.528] [INFO] default - [viewController] query: {}
+[2025-11-17T21:01:37.529] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:01:38.123] [INFO] default - [GET /api/project/list] signature: 06e07d3665b1d8b22e0dae24cf1023c7
+[2025-11-17T21:01:38.123] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T21:01:38.124] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T21:01:38.124] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T21:01:38.124] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"06e07d3665b1d8b22e0dae24cf1023c7","s_t":"1763384498108","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:01:38.134] [INFO] default - [GET /api/project] signature: 73bc8fc35001b6320e0e1bd5b947f569
+[2025-11-17T21:01:38.134] [INFO] default - GET /api/project body:{}
+[2025-11-17T21:01:38.134] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T21:01:38.135] [INFO] default - GET /api/project params:undefined
+[2025-11-17T21:01:38.135] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"73bc8fc35001b6320e0e1bd5b947f569","s_t":"1763384498112","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:01:38.435] [INFO] default - [GET /api/proj/product_enum/list] signature: d49da97811685a474e94ce238b1f28b0
+[2025-11-17T21:01:38.436] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T21:01:38.436] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T21:01:38.436] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T21:01:38.436] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"d49da97811685a474e94ce238b1f28b0","s_t":"1763384498432","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:01:38.508] [INFO] default - [viewController] query: {}
+[2025-11-17T21:01:38.508] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:01:40.209] [INFO] default - [GET /api/proj/product/list] signature: 7a88ea4105089e99d481036664ee7efe
+[2025-11-17T21:01:40.210] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T21:01:40.210] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T21:01:40.211] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T21:01:40.211] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"7a88ea4105089e99d481036664ee7efe","s_t":"1763384500204","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:18:52.667] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T21:18:52.669] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:18:52.692] [INFO] default - [viewController] query: {}
+[2025-11-17T21:18:52.693] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:18:52.989] [INFO] default - [GET /api/project/list] signature: b2829b237926906a0cb8bd34242c0925
+[2025-11-17T21:18:52.990] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T21:18:52.990] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T21:18:52.990] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T21:18:52.991] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b2829b237926906a0cb8bd34242c0925","s_t":"1763385532972","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:18:52.998] [INFO] default - [GET /api/project] signature: 6c897adebd507bc13b83a90d76bc4906
+[2025-11-17T21:18:52.999] [INFO] default - GET /api/project body:{}
+[2025-11-17T21:18:52.999] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T21:18:52.999] [INFO] default - GET /api/project params:undefined
+[2025-11-17T21:18:53.000] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"6c897adebd507bc13b83a90d76bc4906","s_t":"1763385532975","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:18:53.096] [INFO] default - [GET /api/proj/product_enum/list] signature: e04b9d7d33281337851937992ba8fa2d
+[2025-11-17T21:18:53.096] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T21:18:53.096] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T21:18:53.096] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T21:18:53.097] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"e04b9d7d33281337851937992ba8fa2d","s_t":"1763385533093","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:18:53.143] [INFO] default - [viewController] query: {}
+[2025-11-17T21:18:53.143] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:18:54.155] [INFO] default - [GET /api/proj/product/list] signature: b72fcdcccb42cf77a5b60001b096a334
+[2025-11-17T21:18:54.156] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T21:18:54.156] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T21:18:54.156] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T21:18:54.156] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b72fcdcccb42cf77a5b60001b096a334","s_t":"1763385534151","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:19:01.291] [INFO] default - [GET /api/proj/product] signature: 3801af09eb4496024c6e8e16c0873731
+[2025-11-17T21:19:01.291] [INFO] default - GET /api/proj/product body:{}
+[2025-11-17T21:19:01.291] [INFO] default - GET /api/proj/product query:{"product_id":"1"}
+[2025-11-17T21:19:01.291] [INFO] default - GET /api/proj/product params:undefined
+[2025-11-17T21:19:01.292] [INFO] default - GET /api/proj/product headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"3801af09eb4496024c6e8e16c0873731","s_t":"1763385541287","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:37:57.596] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T21:37:57.597] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:37:57.624] [INFO] default - [viewController] query: {}
+[2025-11-17T21:37:57.625] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:37:57.937] [INFO] default - [GET /api/project/list] signature: 34adc59d52b585571a54ff9be130a802
+[2025-11-17T21:37:57.942] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T21:37:57.943] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T21:37:57.943] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T21:37:57.943] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"34adc59d52b585571a54ff9be130a802","s_t":"1763386677914","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:37:57.956] [INFO] default - [GET /api/project] signature: dc0dd29ab2c9b9da23665e562393025e
+[2025-11-17T21:37:57.956] [INFO] default - GET /api/project body:{}
+[2025-11-17T21:37:57.957] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T21:37:57.957] [INFO] default - GET /api/project params:undefined
+[2025-11-17T21:37:57.957] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"dc0dd29ab2c9b9da23665e562393025e","s_t":"1763386677919","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:37:58.062] [INFO] default - [GET /api/proj/product_enum/list] signature: 8b7d595ac822e933c31fcfacb25b28ad
+[2025-11-17T21:37:58.063] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T21:37:58.063] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T21:37:58.063] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T21:37:58.063] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"8b7d595ac822e933c31fcfacb25b28ad","s_t":"1763386678057","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:37:58.096] [INFO] default - [viewController] query: {}
+[2025-11-17T21:37:58.097] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:37:59.081] [INFO] default - [GET /api/proj/product/list] signature: e562bf4f697dd4de90c0ec92ed65ad75
+[2025-11-17T21:37:59.082] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T21:37:59.082] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T21:37:59.082] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T21:37:59.083] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"e562bf4f697dd4de90c0ec92ed65ad75","s_t":"1763386679078","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:38:29.769] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T21:38:29.770] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:38:29.811] [INFO] default - [viewController] query: {}
+[2025-11-17T21:38:29.811] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:38:30.135] [INFO] default - [GET /api/project/list] signature: 0cf0bda61174f6d3bd3bb416f9aa446e
+[2025-11-17T21:38:30.135] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T21:38:30.136] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T21:38:30.136] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T21:38:30.136] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"0cf0bda61174f6d3bd3bb416f9aa446e","s_t":"1763386710113","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:38:30.148] [INFO] default - [GET /api/project] signature: f9133df21ebeb501d49517804a7f3838
+[2025-11-17T21:38:30.149] [INFO] default - GET /api/project body:{}
+[2025-11-17T21:38:30.149] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T21:38:30.150] [INFO] default - GET /api/project params:undefined
+[2025-11-17T21:38:30.150] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"f9133df21ebeb501d49517804a7f3838","s_t":"1763386710117","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:38:30.260] [INFO] default - [GET /api/proj/product_enum/list] signature: 5ac6c1add2d61730da09cdec1a22fd22
+[2025-11-17T21:38:30.260] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T21:38:30.260] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T21:38:30.260] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T21:38:30.261] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"5ac6c1add2d61730da09cdec1a22fd22","s_t":"1763386710255","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:38:30.337] [INFO] default - [viewController] query: {}
+[2025-11-17T21:38:30.337] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:38:31.317] [INFO] default - [GET /api/proj/product/list] signature: 32f4e58bbd472e7f74c423d3fae47075
+[2025-11-17T21:38:31.317] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T21:38:31.317] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T21:38:31.317] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T21:38:31.318] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"32f4e58bbd472e7f74c423d3fae47075","s_t":"1763386711313","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:39:09.988] [INFO] default - [viewController] query: {"key":"product","proj_key":"taobao"}
+[2025-11-17T21:39:09.989] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:39:10.024] [INFO] default - [viewController] query: {}
+[2025-11-17T21:39:10.024] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:39:10.201] [INFO] default - [GET /api/project] signature: fa2523df087b172a1462f728ea2bec7d
+[2025-11-17T21:39:10.202] [INFO] default - GET /api/project body:{}
+[2025-11-17T21:39:10.202] [INFO] default - GET /api/project query:{"proj_key":"taobao"}
+[2025-11-17T21:39:10.202] [INFO] default - GET /api/project params:undefined
+[2025-11-17T21:39:10.203] [INFO] default - GET /api/project headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"fa2523df087b172a1462f728ea2bec7d","s_t":"1763386750175","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:39:10.210] [INFO] default - [GET /api/project/list] signature: 1b56c1fae40cb882605b133c4ca68d94
+[2025-11-17T21:39:10.211] [INFO] default - GET /api/project/list body:{}
+[2025-11-17T21:39:10.211] [INFO] default - GET /api/project/list query:{"proj_key":"taobao"}
+[2025-11-17T21:39:10.211] [INFO] default - GET /api/project/list params:undefined
+[2025-11-17T21:39:10.212] [INFO] default - GET /api/project/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"1b56c1fae40cb882605b133c4ca68d94","s_t":"1763386750173","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:39:10.306] [INFO] default - [GET /api/proj/product_enum/list] signature: 85fa3a77b1d32bcd4d31fe79591939d5
+[2025-11-17T21:39:10.306] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T21:39:10.307] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T21:39:10.307] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T21:39:10.307] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"85fa3a77b1d32bcd4d31fe79591939d5","s_t":"1763386750301","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:39:10.367] [INFO] default - [viewController] query: {}
+[2025-11-17T21:39:10.368] [INFO] default - [viewController] params: undefined
+[2025-11-17T21:39:11.322] [INFO] default - [GET /api/proj/product/list] signature: 96688862509064226523016c26680820
+[2025-11-17T21:39:11.323] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T21:39:11.324] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T21:39:11.324] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T21:39:11.324] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"96688862509064226523016c26680820","s_t":"1763386751319","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:39:30.413] [INFO] default - [GET /api/proj/product_enum/list] signature: 5aa369ac2dfa157a3553e5ee86cef2d2
+[2025-11-17T21:39:30.414] [INFO] default - GET /api/proj/product_enum/list body:{}
+[2025-11-17T21:39:30.415] [INFO] default - GET /api/proj/product_enum/list query:{}
+[2025-11-17T21:39:30.415] [INFO] default - GET /api/proj/product_enum/list params:undefined
+[2025-11-17T21:39:30.415] [INFO] default - GET /api/proj/product_enum/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"5aa369ac2dfa157a3553e5ee86cef2d2","s_t":"1763386770088","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}
+[2025-11-17T21:39:31.429] [INFO] default - [GET /api/proj/product/list] signature: b1f5a0be39093c51f53d170520fe0bdc
+[2025-11-17T21:39:31.429] [INFO] default - GET /api/proj/product/list body:{}
+[2025-11-17T21:39:31.430] [INFO] default - GET /api/proj/product/list query:{"page":"1","size":"50"}
+[2025-11-17T21:39:31.430] [INFO] default - GET /api/proj/product/list params:undefined
+[2025-11-17T21:39:31.430] [INFO] default - GET /api/proj/product/list headers:{"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"","proj_key":"taobao","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","content-type":"application/json","accept":"application/json, text/plain, */*","s_sign":"b1f5a0be39093c51f53d170520fe0bdc","s_t":"1763386771426","sec-ch-ua-platform":"\"Windows\"","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:8080/view/dashboard/schema?key=product&proj_key=taobao","accept-encoding":"gzip, deflate, br, zstd","accept-language":"zh-CN,zh;q=0.9"}

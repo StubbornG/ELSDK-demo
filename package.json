@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "@lmmdev/elsdk": "^1.0.0"
   }
 }
